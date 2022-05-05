@@ -1,7 +1,14 @@
-### Hi there 👋
+# Olá, me chamo Alexandre Suguimoto 👋
 
-<!--
-**alexandresuguimoto/alexandresuguimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Trabalho no NRE Maringá no setor da CRTE. Meu componente curricular é matemática, atuo na rede estadual de educação desde 2005, entrei no NRE no ano de 2010, como técnico de suporte atualmente como assessor pedagógico.
+
+Conheça meu site oficial [Minha Homepage](https://alexandresuguimoto.com.br)
+
+[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/) https://scratch.mit.edu/
+
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com) (44)99112-4446
+
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 Here are some ideas to get you started:
 

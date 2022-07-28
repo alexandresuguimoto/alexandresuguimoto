@@ -1,6 +1,6 @@
 # Olá, me chamo Alexandre Suguimoto 👋
 
-## Trabalho no NRE Maringá no setor da CRTE. Meu componente curricular é matemática, atuo na rede estadual de educação desde 2005, entrei no NRE no ano de 2010, como técnico de suporte atualmente como assessor pedagógico.
+## Trabalho no NRE Maringá, setor CRTE. Meu componente curricular é matemática, atuo na rede estadual de educação desde 2005, entrei no NRE no ano de 2010, como técnico de suporte atualmente como assessor pedagógico.
 
 Conheça meu site oficial [Minha Homepage](https://alexandresuguimoto.com.br)
 
